@@ -1,3 +1,8143 @@
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
+<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @email ccpprogrammers@gmail.com
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
+    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+
 # Kinsta - Hello World - PHP
 An example of how to set your PHP application up to enable deployment on Kinsta App Hosting services.
 # Kinsta - Hello World - PHP
